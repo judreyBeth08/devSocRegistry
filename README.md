@@ -1,4 +1,4 @@
-# simple_crud
+# simpleCRUD
 things to work on:
 - delete after update
 - search
